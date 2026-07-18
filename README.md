@@ -14,4 +14,3 @@ A passionate AI & Data Science student focused on building robust backend system
 ### 🎓 Academic Background
 * **Course:** BTech AI and Data Science  
 * **Institution:** Amrita Vishwa Vidyapeetham , Coimbatore
-*
