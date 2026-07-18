@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Narendra R 👋
 
-<!--
-**narendrar-133/narendrar-133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate AI & Data Science student focused on building robust backend systems and intelligent applications.
 
-Here are some ideas to get you started:
+### 🧠 Current Focus & Abilities
+* **Backend Engineering:** Architecting scalable APIs and integrating vector databases for AI applications.
+* **ML Pipelines & MLOps:** Building end-to-end pipelines for training, fine-tuning (like QLoRa), and deploying LLMs.
+* **Edge AI & TinyML:** Optimizing machine learning models to run efficiently on resource-constrained microcontrollers and edge devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+* **Languages:** Python, SQL, JavaScript, Java
+* **Frameworks & Tools:** PyTorch, Docker, Git, SciKit Learn, Latex
+
+### 🎓 Academic Background
+* **Course:** BTech AI and Data Science  
+* **Institution:** Amrita Vishwa Vidyapeetham , Coimbatore
+*
